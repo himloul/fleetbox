@@ -31,7 +31,7 @@ page_sections:
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
+    alt_text: Product Shots
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
