@@ -27,12 +27,12 @@ page_sections:
   content: Manage your fleet data, through Data Analytics<br>Automate your analytics.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    url: https://himloul.github.io/
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shots
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2021/03/11/aaa.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
