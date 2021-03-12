@@ -4,7 +4,7 @@ author: Hamza Imloul
 email: hamzaonde@gmail.com
 description: FleetBox is a service for fleet management, our support engineers will
   take your operations into insghts
-baseurl: "/ubuild-jekyll"
+baseurl: "/fleetbox"
 url: ''
 defaults:
 - scope:
