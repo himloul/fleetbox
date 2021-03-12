@@ -11,8 +11,8 @@ page_sections:
     link_text: Platform
   - link: "#solutions"
     link_text: Solutions
-  - link: "#customize"
-    link_text: Customize
+  - link: "#company"
+    link_text: Company
   - link: "#responsive"
     link_text: Responsive
   - link: "#blocks"
