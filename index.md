@@ -30,7 +30,7 @@ page_sections:
     url: https://himloul.github.io/
     button_text: See Creator's Page
   image:
-    image: "/uploads/2021/03/11/aaa.jpg"
+    image: "/uploads/2021/03/12/img1-min.png"
     alt_text: Product Shots
   background_image: ''
 - template: content-feature
