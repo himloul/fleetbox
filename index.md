@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2018/06/21/forestry-symbol.svg"
   navigation:
   - link: "/"
-    link_text: Ubuild
+    link_text: Platform
   - link: "#solutions"
     link_text: Solutions
   - link: "#customize"
