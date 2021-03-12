@@ -1,7 +1,7 @@
 ---
 layout: blocks
-title: Homepage
-date: 2017-11-22T23:00:00.000+00:00
+title: FleetBox
+date: 2019-09-09 10:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -36,7 +36,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: Solutions
+  slug: solutions
   headline: "<strong>Optimize </strong>your Logistics &amp; Supply chain activities."
   content: Route Optimization, for greater profitability.<br>Expose anomalies in the
     process.
