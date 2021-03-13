@@ -69,12 +69,13 @@ page_sections:
   slug: blocks
 - template: detail-content
   block: text-1
-  headline: Steps to Build a Site!
-  content: <p>uBuild is an open-source Jekyll based demo that doubles as a builder
-    tool inside the Forestry content manager.</p><ol><li><p><a href="https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll">Import
-    this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
-    Blocks and preview them as you go along.</p></li></ol>
+  headline: WHAT OUR CLIENTS SAY
+  content: <p>Since we’ve partnered with FleetBox services, we’ve looked at our data
+    in a different way connecting to Looker. We can now better understand trends across
+    the restaurant delivery service industry and how those trends affect us in different
+    cities, saving us time &amp; resources in the process.</p><p class="title f16
+    is-txtNavyBlue u-mt48 u-mb48 u-mb24--tablet"><strong>Adnane,<br>Facturation service
+    @ Mixtra</strong></p><p></p>
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Morocco
