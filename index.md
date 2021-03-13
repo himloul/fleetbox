@@ -19,7 +19,7 @@ page_sections:
     link_text: Blocks
   cta:
     url: mailto:hamzaonde@gmail.com
-    button_text: Order
+    button_text: Contact us
 - template: hero-banner-w-image
   block: hero-2
   slug: features
