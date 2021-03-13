@@ -38,10 +38,10 @@ page_sections:
   media_alignment: Left
   slug: solutions
   headline: "<strong>Optimize </strong>your Logistics &amp; Supply chain activities."
-  content: Route Optimization, for greater profitability.<br>Expose anomalies in the
-    process.
+  content: "<strong>Route Optimization</strong>, for greater profitability.<br>Expose
+    <strong>anomalies </strong>in the process."
   media:
-    image: "/uploads/2021/03/13/2020-05-20_153022.png"
+    image: "/uploads/2021/03/13/img2-min.png"
     alt_text: K Nearest vehicles
 - template: content-feature
   block: feature-1
