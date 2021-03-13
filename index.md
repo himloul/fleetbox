@@ -28,7 +28,7 @@ page_sections:
   cta:
     enabled: true
     url: https://docs.google.com/forms/d/e/1FAIpQLSfWGpEK1HjW_flFX7U4mjclE65IFK9LzouCSiH760bdKTrxTQ/viewform?usp=sf_link
-    button_text: Request a demo
+    button_text: "Request a demo \U0001F812"
   image:
     image: "/uploads/2021/03/12/img1-min.png"
     alt_text: Product Shots
