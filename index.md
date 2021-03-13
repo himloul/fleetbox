@@ -14,7 +14,7 @@ page_sections:
   - link: "#company"
     link_text: Company
   - link: "#responsive"
-    link_text: Responsive
+    link_text: Doc
   - link: "#blocks"
     link_text: Blocks
   cta:
@@ -27,8 +27,8 @@ page_sections:
   content: Manage your fleet data, through Data Analytics<br>Automate your analytics.
   cta:
     enabled: true
-    url: https://himloul.github.io/
-    button_text: See Creator's Page
+    url: https://docs.google.com/forms/d/e/1FAIpQLSfWGpEK1HjW_flFX7U4mjclE65IFK9LzouCSiH760bdKTrxTQ/viewform?usp=sf_link
+    button_text: Request a demo
   image:
     image: "/uploads/2021/03/12/img1-min.png"
     alt_text: Product Shots
