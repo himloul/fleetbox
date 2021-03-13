@@ -41,8 +41,8 @@ page_sections:
   content: Route Optimization, for greater profitability.<br>Expose anomalies in the
     process.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/2021/03/13/img2-min.png"
+    alt_text: K Nearest vehicles
 - template: content-feature
   block: feature-1
   media_alignment: Right
