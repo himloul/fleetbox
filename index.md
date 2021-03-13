@@ -41,7 +41,7 @@ page_sections:
   content: Route Optimization, for greater profitability.<br>Expose anomalies in the
     process.
   media:
-    image: "/uploads/2021/03/13/img2-min.png"
+    image: "/uploads/2021/03/13/2020-05-20_153022.png"
     alt_text: K Nearest vehicles
 - template: content-feature
   block: feature-1
