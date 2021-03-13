@@ -13,7 +13,7 @@ page_sections:
     link_text: Solutions
   - link: "#company"
     link_text: Company
-  - link: "#responsive"
+  - link: "#doc"
     link_text: Doc
   - link: "#blocks"
     link_text: Blocks
