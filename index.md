@@ -15,8 +15,8 @@ page_sections:
     link_text: Reporting
   - link: "#company"
     link_text: Company
-  - link: "#blocks"
-    link_text: Blocks
+  - link: "#documentation"
+    link_text: Documentation
   cta:
     url: mailto:hamzaonde@gmail.com
     button_text: Contact us
