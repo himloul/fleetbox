@@ -66,7 +66,7 @@ page_sections:
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
   caption: All Available Blocks
-  slug: blocks
+  slug: Company
 - template: detail-content
   block: text-1
   headline: WHAT OUR CLIENTS SAY
