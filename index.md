@@ -46,7 +46,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  slug: company
+  slug: Reporting
   headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
     edits throughout your new site</span>
   content: Each block comes with custom Front Matter that can be edited in Forestry
