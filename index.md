@@ -47,8 +47,9 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: Reporting
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
+  headline: <strong>Understand</strong><span class="light"> the evolution of your
+    activities, before anomalies came up.<br>Track each step of the assigned missions,
+    using specific metrics.</span>
   content: Each block comes with custom Front Matter that can be edited in Forestry
     CMS.
   media:
