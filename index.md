@@ -13,8 +13,8 @@ page_sections:
     link_text: Solutions
   - link: "#reporting"
     link_text: Reporting
-  - link: "#doc"
-    link_text: Doc
+  - link: "#company"
+    link_text: Company
   - link: "#blocks"
     link_text: Blocks
   cta:
