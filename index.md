@@ -11,8 +11,8 @@ page_sections:
     link_text: Platform
   - link: "#solutions"
     link_text: Solutions
-  - link: "#company"
-    link_text: Company
+  - link: "#reporting"
+    link_text: Reporting
   - link: "#doc"
     link_text: Doc
   - link: "#blocks"
