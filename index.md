@@ -48,10 +48,9 @@ page_sections:
   media_alignment: Right
   slug: Reporting
   headline: <strong>Understand</strong><span class="light"> the evolution of your
-    activities, before anomalies came up.<br>Track each step of the assigned missions,
-    using specific metrics.</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+    activities, before anomalies came up.<br></span>
+  content: <span class="light">Track each step of the assigned missions, using specific
+    metrics.</span>
   media:
     image: "/uploads/2021/03/14/2021-03-04_184235.png"
     alt_text: Customize Blocks
