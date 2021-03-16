@@ -47,8 +47,8 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: Reporting
-  headline: <strong>Understand</strong><span class="light"> the evolution of your
-    activities, before anomalies came up.<br></span>
+  headline: "<strong>Understand</strong><span class=\"light\"> the evolution </span>\U0001F4C8
+    <span class=\"light\">of your activities, before anomalies came up.<br></span>"
   content: <span class="light">Track each step of the assigned missions, using specific
     metrics.</span>
   media:
