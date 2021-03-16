@@ -24,7 +24,8 @@ page_sections:
   block: hero-2
   slug: features
   headline: "FleetBox<br><strong>Raise your Analytics<br><br></strong>\U0001F4C8\U0001F91D"
-  content: Manage your fleet data, through Data Analytics<br>Automate your analytics.
+  content: Manage your operations data, through Analytics pipelines<br>Automate your
+    repetitive tasks. Save time to more value.
   cta:
     enabled: true
     url: https://docs.google.com/forms/d/e/1FAIpQLSfWGpEK1HjW_flFX7U4mjclE65IFK9LzouCSiH760bdKTrxTQ/viewform?usp=sf_link
