@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "FleetBox<br><strong>Raise your Analytics<br></strong>\U0001F4C8\U0001F4E6\U0001F91D"
+  headline: "FleetBox<br><strong>Raise your Analytics<br><br></strong>\U0001F4C8\U0001F4E6\U0001F91D"
   content: Manage your fleet data, through Data Analytics<br>Automate your analytics.
   cta:
     enabled: true
